@@ -9,4 +9,4 @@ belly-button-code (folder) contains:
     -.gitkeep
     -app.js file for assignment
   -index.html for assignment. Simply clicking the file should open the webpage
-  -samples.json
+  -samples.json for assignment. The wonderfully horrendous data itself.
